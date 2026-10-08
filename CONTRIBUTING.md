@@ -1,5 +1,7 @@
 # Contributing code to `rust-opa-wasm`
 
+> This repository is Gua's fork of the upstream crate, with no code changes. Send changes to [matrix-org/rust-opa-wasm](https://github.com/matrix-org/rust-opa-wasm); the guide below is upstream's.
+
 Everyone is welcome to contribute code to `rust-opa-wasm`, provided that they are willing to license their contributions under the same license as the project itself.
 We follow a simple 'inbound=outbound' model for contributions: the act of submitting an 'inbound' contribution means that the contributor agrees to license the code under the same terms as the project's overall 'outbound' license - in this case, Apache Software License v2 (see [LICENSE](./LICENSE)).
 
