@@ -1,5 +1,7 @@
 # Rust Open Policy Agent SDK
 
+> This repository is Gua's fork of [matrix-org/rust-opa-wasm](https://github.com/matrix-org/rust-opa-wasm) with no code changes. [gua-auth-service](https://github.com/Gua-ra/gua-auth-service) pins upstream commit `a3b8cb70` (branch `gua/wasmtime-lt-50`). Contribute and report problems upstream; see [SECURITY.md](SECURITY.md) for vulnerabilities.
+
 A crate to use OPA policies compiled to WASM.
 
 ## Try it out
